@@ -5,7 +5,7 @@ const express = require("express");
 // (v0.app/settings/keys theke nao), na hole Vercel-e
 // V0_API_KEY env var bosao. Key chara shob call error dibe.
 
-const V0_API_KEY = process.env.V0_API_KEY || "YOUR-V0-API-KEY-HERE";
+const V0_API_KEY = process.env.V0_API_KEY || "v1:team_0czxwJI6WJ98snMvq9eMDbeb:vcp_3A4VcYIs5p5AXLwge7S0XP66hQvTVbTKLWtBCyOPKkpihnjPij2KnxTv";
 const V0_BASE = "https://api.v0.dev";
 const PORT = 3000;
 
