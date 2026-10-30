@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"SAGOR v0 API — v0.app API-r full wrapper (projects, chats, messages, deployments, hooks, mcp-servers)","main":"index.js","name":"sagor-v0-api","scripts":{"start":"node index.js"},"version":"1.0.0"}
